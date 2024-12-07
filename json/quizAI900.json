@@ -1,0 +1,306 @@
+[
+    {
+        "question": "Qual é o serviço de banco de dados relacional da Microsoft na nuvem?",
+        "a": "Azure SQL Database",
+        "b": "Azure Cosmos DB",
+        "c": "Azure Blob Storage",
+        "d": "Azure Table Storage",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para criar e gerenciar máquinas virtuais?",
+        "a": "Azure Virtual Machines",
+        "b": "Azure Functions",
+        "c": "Azure App Service",
+        "d": "Azure Kubernetes Service",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é uma solução de contêiner gerenciada?",
+        "a": "Azure Kubernetes Service",
+        "b": "Azure Container Instances",
+        "c": "Azure Functions",
+        "d": "Azure App Service",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para análise de big data?",
+        "a": "Azure Synapse Analytics",
+        "b": "Azure Data Lake",
+        "c": "Azure Stream Analytics",
+        "d": "Azure Machine Learning",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para armazenamento de objetos?",
+        "a": "Azure Blob Storage",
+        "b": "Azure File Storage",
+        "c": "Azure Disk Storage",
+        "d": "Azure Table Storage",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para hospedar aplicativos web?",
+        "a": "Azure App Service",
+        "b": "Azure Functions",
+        "c": "Azure Virtual Machines",
+        "d": "Azure Kubernetes Service",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para autenticação e autorização?",
+        "a": "Azure Active Directory",
+        "b": "Azure Key Vault",
+        "c": "Azure Security Center",
+        "d": "Azure Policy",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para monitoramento e gerenciamento de recursos?",
+        "a": "Azure Monitor",
+        "b": "Azure Advisor",
+        "c": "Azure Security Center",
+        "d": "Azure Policy",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de chaves e segredos?",
+        "a": "Azure Key Vault",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para criar fluxos de trabalho automatizados?",
+        "a": "Azure Logic Apps",
+        "b": "Azure Functions",
+        "c": "Azure App Service",
+        "d": "Azure Kubernetes Service",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para análise em tempo real?",
+        "a": "Azure Stream Analytics",
+        "b": "Azure Synapse Analytics",
+        "c": "Azure Data Lake",
+        "d": "Azure Machine Learning",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para criar bots inteligentes?",
+        "a": "Azure Bot Service",
+        "b": "Azure Cognitive Services",
+        "c": "Azure Machine Learning",
+        "d": "Azure App Service",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para criar e treinar modelos de machine learning?",
+        "a": "Azure Machine Learning",
+        "b": "Azure Cognitive Services",
+        "c": "Azure Synapse Analytics",
+        "d": "Azure Data Lake",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para integração contínua e entrega contínua (CI/CD)?",
+        "a": "Azure DevOps",
+        "b": "Azure Pipelines",
+        "c": "Azure Repos",
+        "d": "Azure Boards",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de APIs?",
+        "a": "Azure API Management",
+        "b": "Azure Functions",
+        "c": "Azure App Service",
+        "d": "Azure Logic Apps",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para backup e recuperação de dados?",
+        "a": "Azure Backup",
+        "b": "Azure Site Recovery",
+        "c": "Azure Storage",
+        "d": "Azure Data Lake",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para replicação de máquinas virtuais?",
+        "a": "Azure Site Recovery",
+        "b": "Azure Backup",
+        "c": "Azure Virtual Machines",
+        "d": "Azure Kubernetes Service",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de identidades e acesso?",
+        "a": "Azure Active Directory",
+        "b": "Azure Key Vault",
+        "c": "Azure Security Center",
+        "d": "Azure Policy",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para análise de logs e métricas?",
+        "a": "Azure Monitor",
+        "b": "Azure Advisor",
+        "c": "Azure Security Center",
+        "d": "Azure Policy",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de políticas de segurança?",
+        "a": "Azure Policy",
+        "b": "Azure Security Center",
+        "c": "Azure Active Directory",
+        "d": "Azure Key Vault",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança e conformidade?",
+        "a": "Azure Security Center",
+        "b": "Azure Policy",
+        "c": "Azure Active Directory",
+        "d": "Azure Key Vault",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de custos e faturamento?",
+        "a": "Azure Cost Management",
+        "b": "Azure Advisor",
+        "c": "Azure Monitor",
+        "d": "Azure Policy",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para recomendação de melhores práticas?",
+        "a": "Azure Advisor",
+        "b": "Azure Monitor",
+        "c": "Azure Security Center",
+        "d": "Azure Policy",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de contêineres?",
+        "a": "Azure Kubernetes Service",
+        "b": "Azure Container Instances",
+        "c": "Azure Functions",
+        "d": "Azure App Service",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de redes virtuais?",
+        "a": "Azure Virtual Network",
+        "b": "Azure Load Balancer",
+        "c": "Azure Application Gateway",
+        "d": "Azure Traffic Manager",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para balanceamento de carga?",
+        "a": "Azure Load Balancer",
+        "b": "Azure Application Gateway",
+        "c": "Azure Traffic Manager",
+        "d": "Azure Virtual Network",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de tráfego de rede?",
+        "a": "Azure Traffic Manager",
+        "b": "Azure Load Balancer",
+        "c": "Azure Application Gateway",
+        "d": "Azure Virtual Network",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de gateways de aplicação?",
+        "a": "Azure Application Gateway",
+        "b": "Azure Load Balancer",
+        "c": "Azure Traffic Manager",
+        "d": "Azure Virtual Network",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de DNS?",
+        "a": "Azure DNS",
+        "b": "Azure Traffic Manager",
+        "c": "Azure Load Balancer",
+        "d": "Azure Application Gateway",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de firewalls?",
+        "a": "Azure Firewall",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de VPNs?",
+        "a": "Azure VPN Gateway",
+        "b": "Azure Virtual Network",
+        "c": "Azure Load Balancer",
+        "d": "Azure Traffic Manager",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de redes de entrega de conteúdo (CDN)?",
+        "a": "Azure CDN",
+        "b": "Azure Traffic Manager",
+        "c": "Azure Load Balancer",
+        "d": "Azure Application Gateway",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de identidades híbridas?",
+        "a": "Azure Active Directory",
+        "b": "Azure Key Vault",
+        "c": "Azure Security Center",
+        "d": "Azure Policy",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de dispositivos IoT?",
+        "a": "Azure IoT Hub",
+        "b": "Azure IoT Central",
+        "c": "Azure Sphere",
+        "d": "Azure Digital Twins",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de gêmeos digitais?",
+        "a": "Azure Digital Twins",
+        "b": "Azure IoT Hub",
+        "c": "Azure IoT Central",
+        "d": "Azure Sphere",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de dispositivos IoT seguros?",
+        "a": "Azure Sphere",
+        "b": "Azure IoT Hub",
+        "c": "Azure IoT Central",
+        "d": "Azure Digital Twins",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de dispositivos IoT em larga escala?",
+        "a": "Azure IoT Central",
+        "b": "Azure IoT Hub",
+        "c": "Azure Sphere",
+        "d": "Azure Digital Twins",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de dispositivos IoT conectados?",
+        "a": "Azure IoT Hub",
+        "b": "Azure IoT Central",
+        "c": "Azure Sphere",
+        "d": "Azure Digital Twins",
+        "correct": "a"
+    }
+]

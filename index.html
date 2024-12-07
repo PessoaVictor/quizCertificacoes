@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Certificações</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <h1 id="main-title">Quiz Certificações</h1>
+    <div class="quiz-container">
+        <img id="certification-badge" src="img/dp900.png" alt="Certificação">
+        <h2 id="quiz-title">Quiz DP-900</h2>
+        <select id="certification-select">
+            <option value="quizDP900.json" data-badge="img/dp900.png">DP-900</option>
+            <option value="quizSC900.json" data-badge="img/sc900.png">SC-900</option>
+            <option value="quizPL900.json" data-badge="img/pl900.png">PL-900</option>
+            <option value="quizAZ900.json" data-badge="img/az900.png">AZ-900</option>
+            <option value="quizMS900.json" data-badge="img/ms900.png">MS-900</option>
+            <option value="quizAI900.json" data-badge="img/ai900.png">AI-900</option>
+        </select>
+        <div id="progress-container">
+            <div id="progress-bar"></div>
+        </div>
+        <div id="counter">0/50 | 0 erradas | 0 certas</div>
+        <div id="quiz"></div>
+        <h3 id="feedback"></h3>
+        <button id="submit">Responder</button>
+        <div id="results"></div>
+    </div>
+    <script src="./js/script.js"></script>
+</body>
+</html>

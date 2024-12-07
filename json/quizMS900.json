@@ -1,0 +1,290 @@
+[
+    {
+        "question": "Qual é o serviço de banco de dados relacional da Microsoft na nuvem?",
+        "a": "Azure SQL Database",
+        "b": "Azure Cosmos DB",
+        "c": "Azure Blob Storage",
+        "d": "Azure Table Storage",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para colaboração em equipe?",
+        "a": "Microsoft Teams",
+        "b": "OneDrive",
+        "c": "SharePoint",
+        "d": "Yammer",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para armazenamento de arquivos na nuvem?",
+        "a": "OneDrive",
+        "b": "SharePoint",
+        "c": "Microsoft Teams",
+        "d": "Yammer",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para gerenciamento de documentos e colaboração?",
+        "a": "SharePoint",
+        "b": "OneDrive",
+        "c": "Microsoft Teams",
+        "d": "Yammer",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para comunicação por e-mail?",
+        "a": "Exchange Online",
+        "b": "Outlook",
+        "c": "Microsoft Teams",
+        "d": "Yammer",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para gerenciamento de dispositivos móveis?",
+        "a": "Intune",
+        "b": "Azure Active Directory",
+        "c": "Microsoft Endpoint Manager",
+        "d": "Windows Autopilot",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para segurança e conformidade?",
+        "a": "Microsoft 365 Compliance Center",
+        "b": "Microsoft Defender",
+        "c": "Azure Security Center",
+        "d": "Microsoft Sentinel",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para gerenciamento de identidades?",
+        "a": "Azure Active Directory",
+        "b": "Intune",
+        "c": "Microsoft Endpoint Manager",
+        "d": "Windows Autopilot",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para proteção contra ameaças?",
+        "a": "Microsoft Defender",
+        "b": "Azure Security Center",
+        "c": "Microsoft Sentinel",
+        "d": "Microsoft 365 Compliance Center",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para gerenciamento de dispositivos?",
+        "a": "Microsoft Endpoint Manager",
+        "b": "Intune",
+        "c": "Azure Active Directory",
+        "d": "Windows Autopilot",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para automação de processos de negócios?",
+        "a": "Power Automate",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para criação de aplicativos personalizados?",
+        "a": "Power Apps",
+        "b": "Power BI",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para análise de dados?",
+        "a": "Power BI",
+        "b": "Power Apps",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para criação de chatbots?",
+        "a": "Power Virtual Agents",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Automate",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para gerenciamento de projetos?",
+        "a": "Microsoft Project",
+        "b": "Microsoft Planner",
+        "c": "Microsoft To Do",
+        "d": "Microsoft Teams",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para planejamento de tarefas?",
+        "a": "Microsoft Planner",
+        "b": "Microsoft Project",
+        "c": "Microsoft To Do",
+        "d": "Microsoft Teams",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para gerenciamento de tarefas pessoais?",
+        "a": "Microsoft To Do",
+        "b": "Microsoft Planner",
+        "c": "Microsoft Project",
+        "d": "Microsoft Teams",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para videoconferências?",
+        "a": "Microsoft Teams",
+        "b": "Skype for Business",
+        "c": "Yammer",
+        "d": "Outlook",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para comunicação social corporativa?",
+        "a": "Yammer",
+        "b": "Microsoft Teams",
+        "c": "Skype for Business",
+        "d": "Outlook",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para gerenciamento de políticas de segurança?",
+        "a": "Microsoft 365 Compliance Center",
+        "b": "Microsoft Defender",
+        "c": "Azure Security Center",
+        "d": "Microsoft Sentinel",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para gerenciamento de conformidade?",
+        "a": "Microsoft 365 Compliance Center",
+        "b": "Microsoft Defender",
+        "c": "Azure Security Center",
+        "d": "Microsoft Sentinel",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para gerenciamento de dispositivos móveis?",
+        "a": "Intune",
+        "b": "Azure Active Directory",
+        "c": "Microsoft Endpoint Manager",
+        "d": "Windows Autopilot",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para gerenciamento de identidades?",
+        "a": "Azure Active Directory",
+        "b": "Intune",
+        "c": "Microsoft Endpoint Manager",
+        "d": "Windows Autopilot",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para proteção contra ameaças?",
+        "a": "Microsoft Defender",
+        "b": "Azure Security Center",
+        "c": "Microsoft Sentinel",
+        "d": "Microsoft 365 Compliance Center",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para gerenciamento de dispositivos?",
+        "a": "Microsoft Endpoint Manager",
+        "b": "Intune",
+        "c": "Azure Active Directory",
+        "d": "Windows Autopilot",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para automação de processos de negócios?",
+        "a": "Power Automate",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para criação de aplicativos personalizados?",
+        "a": "Power Apps",
+        "b": "Power BI",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para análise de dados?",
+        "a": "Power BI",
+        "b": "Power Apps",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para criação de chatbots?",
+        "a": "Power Virtual Agents",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Automate",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para gerenciamento de projetos?",
+        "a": "Microsoft Project",
+        "b": "Microsoft Planner",
+        "c": "Microsoft To Do",
+        "d": "Microsoft Teams",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para planejamento de tarefas?",
+        "a": "Microsoft Planner",
+        "b": "Microsoft Project",
+        "c": "Microsoft To Do",
+        "d": "Microsoft Teams",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para gerenciamento de tarefas pessoais?",
+        "a": "Microsoft To Do",
+        "b": "Microsoft Planner",
+        "c": "Microsoft Project",
+        "d": "Microsoft Teams",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para videoconferências?",
+        "a": "Microsoft Teams",
+        "b": "Skype for Business",
+        "c": "Yammer",
+        "d": "Outlook",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para comunicação social corporativa?",
+        "a": "Yammer",
+        "b": "Microsoft Teams",
+        "c": "Skype for Business",
+        "d": "Outlook",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para gerenciamento de políticas de segurança?",
+        "a": "Microsoft 365 Compliance Center",
+        "b": "Microsoft Defender",
+        "c": "Azure Security Center",
+        "d": "Microsoft Sentinel",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Microsoft 365 é usado para gerenciamento de conformidade?",
+        "a": "Microsoft 365 Compliance Center",
+        "b": "Microsoft Defender",
+        "c": "Azure Security Center",
+        "d": "Microsoft Sentinel",
+        "correct": "a"
+    }
+]

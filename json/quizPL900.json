@@ -1,0 +1,282 @@
+[
+    {
+        "question": "Qual é o serviço de banco de dados relacional da Microsoft na nuvem?",
+        "a": "Azure SQL Database",
+        "b": "Azure Cosmos DB",
+        "c": "Azure Blob Storage",
+        "d": "Azure Table Storage",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar aplicativos personalizados?",
+        "a": "Power Apps",
+        "b": "Power BI",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para análise de dados?",
+        "a": "Power BI",
+        "b": "Power Apps",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para automação de processos de negócios?",
+        "a": "Power Automate",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criação de chatbots?",
+        "a": "Power Virtual Agents",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Automate",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar relatórios interativos?",
+        "a": "Power BI",
+        "b": "Power Apps",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para integrar diferentes serviços e aplicativos?",
+        "a": "Power Automate",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar dashboards interativos?",
+        "a": "Power BI",
+        "b": "Power Apps",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar fluxos de trabalho automatizados?",
+        "a": "Power Automate",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar aplicativos sem código?",
+        "a": "Power Apps",
+        "b": "Power BI",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para análise de dados em tempo real?",
+        "a": "Power BI",
+        "b": "Power Apps",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar bots de atendimento ao cliente?",
+        "a": "Power Virtual Agents",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Automate",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar relatórios de negócios?",
+        "a": "Power BI",
+        "b": "Power Apps",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para automatizar tarefas repetitivas?",
+        "a": "Power Automate",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar aplicativos móveis?",
+        "a": "Power Apps",
+        "b": "Power BI",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar relatórios financeiros?",
+        "a": "Power BI",
+        "b": "Power Apps",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar fluxos de trabalho empresariais?",
+        "a": "Power Automate",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar aplicativos de negócios?",
+        "a": "Power Apps",
+        "b": "Power BI",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar relatórios de vendas?",
+        "a": "Power BI",
+        "b": "Power Apps",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para automatizar processos de negócios?",
+        "a": "Power Automate",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar aplicativos de produtividade?",
+        "a": "Power Apps",
+        "b": "Power BI",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar relatórios de marketing?",
+        "a": "Power BI",
+        "b": "Power Apps",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar fluxos de trabalho automatizados?",
+        "a": "Power Automate",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar aplicativos de gerenciamento de projetos?",
+        "a": "Power Apps",
+        "b": "Power BI",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar relatórios de desempenho?",
+        "a": "Power BI",
+        "b": "Power Apps",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para automatizar fluxos de trabalho?",
+        "a": "Power Automate",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar aplicativos de RH?",
+        "a": "Power Apps",
+        "b": "Power BI",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar relatórios de RH?",
+        "a": "Power BI",
+        "b": "Power Apps",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar fluxos de trabalho de RH?",
+        "a": "Power Automate",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar aplicativos de vendas?",
+        "a": "Power Apps",
+        "b": "Power BI",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar relatórios de vendas?",
+        "a": "Power BI",
+        "b": "Power Apps",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar fluxos de trabalho de vendas?",
+        "a": "Power Automate",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar aplicativos de marketing?",
+        "a": "Power Apps",
+        "b": "Power BI",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar relatórios de marketing?",
+        "a": "Power BI",
+        "b": "Power Apps",
+        "c": "Power Automate",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Power Platform é usado para criar fluxos de trabalho de marketing?",
+        "a": "Power Automate",
+        "b": "Power BI",
+        "c": "Power Apps",
+        "d": "Power Virtual Agents",
+        "correct": "a"
+    }
+]

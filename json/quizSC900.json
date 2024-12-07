@@ -1,0 +1,274 @@
+[
+    {
+        "question": "Qual é o serviço de banco de dados relacional da Microsoft na nuvem?",
+        "a": "Azure SQL Database",
+        "b": "Azure Cosmos DB",
+        "c": "Azure Blob Storage",
+        "d": "Azure Table Storage",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de identidades e acesso?",
+        "a": "Azure Active Directory",
+        "b": "Azure Key Vault",
+        "c": "Azure Security Center",
+        "d": "Azure Policy",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de chaves e segredos?",
+        "a": "Azure Key Vault",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para monitoramento e gerenciamento de recursos?",
+        "a": "Azure Monitor",
+        "b": "Azure Advisor",
+        "c": "Azure Security Center",
+        "d": "Azure Policy",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de políticas de segurança?",
+        "a": "Azure Policy",
+        "b": "Azure Security Center",
+        "c": "Azure Active Directory",
+        "d": "Azure Key Vault",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança e conformidade?",
+        "a": "Azure Security Center",
+        "b": "Azure Policy",
+        "c": "Azure Active Directory",
+        "d": "Azure Key Vault",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para proteção contra ameaças?",
+        "a": "Microsoft Defender for Cloud",
+        "b": "Azure Security Center",
+        "c": "Azure Sentinel",
+        "d": "Azure Policy",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de rede?",
+        "a": "Azure Firewall",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de conformidade?",
+        "a": "Microsoft Compliance Manager",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de identidades híbridas?",
+        "a": "Azure Active Directory",
+        "b": "Azure Key Vault",
+        "c": "Azure Security Center",
+        "d": "Azure Policy",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de dispositivos móveis?",
+        "a": "Microsoft Intune",
+        "b": "Azure Active Directory",
+        "c": "Azure Security Center",
+        "d": "Azure Policy",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de ameaças?",
+        "a": "Azure Sentinel",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de aplicativos?",
+        "a": "Microsoft Defender for Cloud Apps",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de dados?",
+        "a": "Azure Information Protection",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de identidade?",
+        "a": "Azure Active Directory Identity Protection",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Key Vault",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de rede?",
+        "a": "Azure Network Security",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de infraestrutura?",
+        "a": "Azure Security Center",
+        "b": "Azure Policy",
+        "c": "Azure Active Directory",
+        "d": "Azure Key Vault",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de plataforma?",
+        "a": "Azure Security Center",
+        "b": "Azure Policy",
+        "c": "Azure Active Directory",
+        "d": "Azure Key Vault",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de operações?",
+        "a": "Azure Security Center",
+        "b": "Azure Policy",
+        "c": "Azure Active Directory",
+        "d": "Azure Key Vault",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de governança?",
+        "a": "Azure Policy",
+        "b": "Azure Security Center",
+        "c": "Azure Active Directory",
+        "d": "Azure Key Vault",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de conformidade?",
+        "a": "Microsoft Compliance Manager",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de auditoria?",
+        "a": "Azure Monitor",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de logs?",
+        "a": "Azure Monitor",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de eventos?",
+        "a": "Azure Sentinel",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de incidentes?",
+        "a": "Azure Sentinel",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de vulnerabilidades?",
+        "a": "Microsoft Defender for Endpoint",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de ameaças?",
+        "a": "Microsoft Defender for Identity",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de dispositivos?",
+        "a": "Microsoft Defender for Endpoint",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de aplicativos?",
+        "a": "Microsoft Defender for Cloud Apps",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de dados?",
+        "a": "Azure Information Protection",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de identidade?",
+        "a": "Azure Active Directory Identity Protection",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Key Vault",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de rede?",
+        "a": "Azure Network Security",
+        "b": "Azure Security Center",
+        "c": "Azure Policy",
+        "d": "Azure Active Directory",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de plataforma?",
+        "a": "Azure Security Center",
+        "b": "Azure Policy",
+        "c": "Azure Active Directory",
+        "d": "Azure Key Vault",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para gerenciamento de segurança de operações?",
+        "a": "Azure Security Center",
+        "b": "Azure Policy",
+        "c": "Azure Active Directory",
+        "d": "Azure Key Vault",
+        "correct": "a"
+    }
+]

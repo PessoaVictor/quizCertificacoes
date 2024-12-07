@@ -1,0 +1,386 @@
+[
+    {
+        "question": "Qual é o serviço de banco de dados relacional da Microsoft na nuvem?",
+        "a": "Azure SQL Database",
+        "b": "Azure Cosmos DB",
+        "c": "Azure Blob Storage",
+        "d": "Azure Table Storage",
+        "correct": "a"
+    },
+    {
+        "question": "Qual é o serviço de banco de dados NoSQL da Microsoft?",
+        "a": "Azure SQL Database",
+        "b": "Azure Cosmos DB",
+        "c": "Azure Blob Storage",
+        "d": "Azure Table Storage",
+        "correct": "b"
+    },
+    {
+        "question": "Qual serviço do Azure fornece integração de dados para movimentar dados entre diferentes fontes?",
+        "a": "Azure Data Lake",
+        "b": "Azure Synapse Analytics",
+        "c": "Azure Data Factory",
+        "d": "Azure Blob Storage",
+        "correct": "c"
+    },
+    {
+        "question": "Qual é um exemplo de banco de dados transacional no Azure?",
+        "a": "Azure SQL Database",
+        "b": "Azure Blob Storage",
+        "c": "Azure Data Lake",
+        "d": "Azure Synapse Analytics",
+        "correct": "a"
+    },
+    {
+        "question": "Qual opção melhor descreve dados não estruturados?",
+        "a": "Dados organizados em tabelas com colunas e linhas",
+        "b": "Dados armazenados como arquivos, vídeos ou imagens",
+        "c": "Dados armazenados em JSON ou XML",
+        "d": "Dados de transações financeiras",
+        "correct": "b"
+    },
+    {
+        "question": "Qual serviço é ideal para armazenar grandes volumes de logs ou arquivos de auditoria?",
+        "a": "Azure Table Storage",
+        "b": "Azure Blob Storage",
+        "c": "Azure SQL Database",
+        "d": "Azure Synapse Analytics",
+        "correct": "b"
+    },
+    {
+        "question": "Qual é a vantagem do Azure Cosmos DB?",
+        "a": "Suporte apenas para SQL",
+        "b": "Baixa latência global com replicação geográfica",
+        "c": "Armazenamento apenas de dados estruturados",
+        "d": "Compatibilidade exclusiva com Microsoft Access",
+        "correct": "b"
+    },
+    {
+        "question": "Qual é a principal função do Azure Data Factory?",
+        "a": "Processar dados em tempo real",
+        "b": "Integrar e transformar dados",
+        "c": "Gerenciar bancos de dados relacionais",
+        "d": "Executar cálculos científicos complexos",
+        "correct": "b"
+    },
+    {
+        "question": "Qual opção descreve o conceito de escalabilidade vertical?",
+        "a": "Adicionar mais servidores para atender à demanda",
+        "b": "Aumentar o poder de um único servidor",
+        "c": "Replicar dados em diferentes regiões",
+        "d": "Dividir dados em várias tabelas menores",
+        "correct": "b"
+    },
+    {
+        "question": "Qual é o principal objetivo de um data warehouse?",
+        "a": "Armazenar dados transacionais",
+        "b": "Analisar grandes volumes de dados históricos",
+        "c": "Processar transações em tempo real",
+        "d": "Gerenciar backups de banco de dados",
+        "correct": "b"
+    },
+    {
+        "question": "Qual tipo de banco de dados é melhor para armazenar pares de chave-valor?",
+        "a": "Banco de dados relacional",
+        "b": "Banco de dados em grafos",
+        "c": "Banco de dados de documentos",
+        "d": "Banco de dados de chave-valor",
+        "correct": "d"
+    },
+    {
+        "question": "Qual ferramenta é usada para gerenciar e visualizar dados no Azure?",
+        "a": "Azure Monitor",
+        "b": "Azure Data Studio",
+        "c": "Azure Key Vault",
+        "d": "Azure Logic Apps",
+        "correct": "b"
+    },
+    {
+        "question": "Qual é um exemplo de dados semi-estruturados?",
+        "a": "Arquivos de texto plano",
+        "b": "Dados organizados em tabelas",
+        "c": "Dados armazenados em JSON ou XML",
+        "d": "Imagens e vídeos",
+        "correct": "c"
+    },
+    {
+        "question": "Qual tipo de dados o Azure Data Lake é ideal para armazenar?",
+        "a": "Dados relacionais",
+        "b": "Dados transacionais",
+        "c": "Dados estruturados, semi-estruturados e não estruturados",
+        "d": "Apenas dados estruturados",
+        "correct": "c"
+    },
+    {
+        "question": "O que é escalabilidade horizontal?",
+        "a": "Aumentar a capacidade de um único servidor",
+        "b": "Adicionar mais servidores para lidar com a carga",
+        "c": "Diminuir o número de servidores durante a baixa demanda",
+        "d": "Compactar dados para economizar espaço",
+        "correct": "b"
+    },
+    {
+        "question": "Qual serviço do Azure permite consultas distribuídas sobre grandes conjuntos de dados?",
+        "a": "Azure SQL Managed Instance",
+        "b": "Azure Synapse Analytics",
+        "c": "Azure Data Factory",
+        "d": "Azure Key Vault",
+        "correct": "b"
+    },
+    {
+        "question": "Qual é a principal vantagem de um banco de dados em grafos?",
+        "a": "Alta compatibilidade com SQL",
+        "b": "Eficiência em armazenar e consultar relações complexas",
+        "c": "Armazenamento de arquivos grandes",
+        "d": "Execução rápida de transações financeiras",
+        "correct": "b"
+    },
+    {
+        "question": "O que é uma réplica de leitura no contexto de banco de dados?",
+        "a": "Um banco de dados dedicado à escrita de dados",
+        "b": "Uma cópia de um banco de dados usada apenas para leitura",
+        "c": "Um backup automático de dados",
+        "d": "Uma tabela separada para consultas complexas",
+        "correct": "b"
+    },
+    {
+        "question": "Qual é o benefício do particionamento de dados?",
+        "a": "Melhorar o desempenho de consultas em grandes volumes de dados",
+        "b": "Reduzir a latência de leitura e escrita",
+        "c": "Facilitar o backup de dados",
+        "d": "Aumentar a compatibilidade com JSON",
+        "correct": "a"
+    },
+    {
+        "question": "Qual tipo de banco de dados é ideal para análises de redes sociais?",
+        "a": "Banco de dados relacional",
+        "b": "Banco de dados em grafos",
+        "c": "Banco de dados de documentos",
+        "d": "Banco de dados de chave-valor",
+        "correct": "b"
+    },
+    {
+        "question": "O que é um índice em um banco de dados?",
+        "a": "Um método para compactar dados",
+        "b": "Uma estrutura para melhorar o desempenho de consultas",
+        "c": "Um tipo especial de tabela",
+        "d": "Uma forma de criptografia de dados",
+        "correct": "b"
+    },
+    {
+        "question": "Qual é a principal vantagem de usar um banco de dados gerenciado no Azure?",
+        "a": "Controle total sobre o hardware e software",
+        "b": "Redução da complexidade de manutenção",
+        "c": "Capacidade de personalizar o sistema operacional",
+        "d": "Acesso direto ao núcleo do servidor",
+        "correct": "b"
+    },
+    {
+        "question": "O que é o Azure Table Storage ideal para armazenar?",
+        "a": "Dados altamente estruturados com muitas relações",
+        "b": "Grandes arquivos como vídeos e imagens",
+        "c": "Dados NoSQL baseados em chave-valor",
+        "d": "Consultas analíticas complexas",
+        "correct": "c"
+    },
+    {
+        "question": "Qual dos seguintes serviços é projetado para ingestão de dados em tempo real?",
+        "a": "Azure Synapse Analytics",
+        "b": "Azure Stream Analytics",
+        "c": "Azure Data Lake",
+        "d": "Azure Blob Storage",
+        "correct": "b"
+    },
+    {
+        "question": "O que é um Data Lake?",
+        "a": "Um banco de dados relacional para armazenamento de transações",
+        "b": "Um repositório para armazenar grandes volumes de dados brutos",
+        "c": "Uma ferramenta para transformar dados em tempo real",
+        "d": "Um serviço de armazenamento exclusivo para dados estruturados",
+        "correct": "b"
+    },
+    {
+        "question": "Qual é a principal característica do Azure Synapse Analytics?",
+        "a": "Backup automático de dados",
+        "b": "Suporte apenas a dados relacionais",
+        "c": "Integração de análise e armazenamento de dados em uma única plataforma",
+        "d": "Armazenamento de dados de chave-valor",
+        "correct": "c"
+    },
+    {
+        "question": "Qual dos seguintes é um tipo de replicação oferecido pelo Azure Cosmos DB?",
+        "a": "Replicação síncrona apenas",
+        "b": "Replicação eventual, forte e personalizada",
+        "c": "Replicação manual baseada em scripts",
+        "d": "Apenas replicação local",
+        "correct": "b"
+    },
+    {
+        "question": "O que é um banco de dados OLAP projetado para fazer?",
+        "a": "Processar transações financeiras rapidamente",
+        "b": "Executar análises complexas e agregações de dados",
+        "c": "Armazenar pares de chave-valor",
+        "d": "Gerenciar dados de backup em nuvem",
+        "correct": "b"
+    },
+    {
+        "question": "Qual é o serviço de banco de dados de documentos da Microsoft?",
+        "a": "Azure SQL Database",
+        "b": "Azure Cosmos DB",
+        "c": "Azure Blob Storage",
+        "d": "Azure Table Storage",
+        "correct": "b"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para análise de big data?",
+        "a": "Azure Data Lake",
+        "b": "Azure Synapse Analytics",
+        "c": "Azure Data Factory",
+        "d": "Azure Blob Storage",
+        "correct": "b"
+    },
+    {
+        "question": "Qual é a principal característica do Azure Data Lake?",
+        "a": "Armazenamento de dados relacionais",
+        "b": "Armazenamento de grandes volumes de dados brutos",
+        "c": "Processamento de dados em tempo real",
+        "d": "Gerenciamento de bancos de dados relacionais",
+        "correct": "b"
+    },
+    {
+        "question": "Qual serviço do Azure é ideal para ETL (Extract, Transform, Load)?",
+        "a": "Azure Data Lake",
+        "b": "Azure Synapse Analytics",
+        "c": "Azure Data Factory",
+        "d": "Azure Blob Storage",
+        "correct": "c"
+    },
+    {
+        "question": "Qual é a principal vantagem do Azure SQL Managed Instance?",
+        "a": "Compatibilidade com SQL Server",
+        "b": "Armazenamento de dados não estruturados",
+        "c": "Processamento de dados em tempo real",
+        "d": "Gerenciamento de dados de chave-valor",
+        "correct": "a"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para visualização de dados?",
+        "a": "Azure Data Lake",
+        "b": "Azure Synapse Analytics",
+        "c": "Azure Data Factory",
+        "d": "Power BI",
+        "correct": "d"
+    },
+    {
+        "question": "Qual é a principal função do Azure Stream Analytics?",
+        "a": "Armazenamento de dados relacionais",
+        "b": "Processamento de dados em tempo real",
+        "c": "Gerenciamento de bancos de dados relacionais",
+        "d": "Armazenamento de grandes volumes de dados brutos",
+        "correct": "b"
+    },
+    {
+        "question": "Qual serviço do Azure é ideal para armazenamento de dados não estruturados?",
+        "a": "Azure SQL Database",
+        "b": "Azure Cosmos DB",
+        "c": "Azure Blob Storage",
+        "d": "Azure Table Storage",
+        "correct": "c"
+    },
+    {
+        "question": "Qual é a principal vantagem do Azure Data Lake Storage?",
+        "a": "Armazenamento de dados relacionais",
+        "b": "Armazenamento de grandes volumes de dados brutos",
+        "c": "Processamento de dados em tempo real",
+        "d": "Gerenciamento de bancos de dados relacionais",
+        "correct": "b"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para integração de dados?",
+        "a": "Azure Data Lake",
+        "b": "Azure Synapse Analytics",
+        "c": "Azure Data Factory",
+        "d": "Azure Blob Storage",
+        "correct": "c"
+    },
+    {
+        "question": "Qual é a principal característica do Azure SQL Database?",
+        "a": "Armazenamento de dados não estruturados",
+        "b": "Armazenamento de dados relacionais",
+        "c": "Processamento de dados em tempo real",
+        "d": "Gerenciamento de dados de chave-valor",
+        "correct": "b"
+    },
+    {
+        "question": "Qual serviço do Azure é ideal para análise de dados em tempo real?",
+        "a": "Azure Data Lake",
+        "b": "Azure Synapse Analytics",
+        "c": "Azure Stream Analytics",
+        "d": "Azure Blob Storage",
+        "correct": "c"
+    },
+    {
+        "question": "Qual é a principal vantagem do Azure Cosmos DB?",
+        "a": "Armazenamento de dados relacionais",
+        "b": "Baixa latência global com replicação geográfica",
+        "c": "Processamento de dados em tempo real",
+        "d": "Gerenciamento de bancos de dados relacionais",
+        "correct": "b"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para armazenamento de dados de chave-valor?",
+        "a": "Azure SQL Database",
+        "b": "Azure Cosmos DB",
+        "c": "Azure Blob Storage",
+        "d": "Azure Table Storage",
+        "correct": "d"
+    },
+    {
+        "question": "Qual é a principal função do Azure Synapse Analytics?",
+        "a": "Armazenamento de dados relacionais",
+        "b": "Integração de análise e armazenamento de dados em uma única plataforma",
+        "c": "Processamento de dados em tempo real",
+        "d": "Gerenciamento de bancos de dados relacionais",
+        "correct": "b"
+    },
+    {
+        "question": "Qual serviço do Azure é ideal para armazenamento de dados semi-estruturados?",
+        "a": "Azure SQL Database",
+        "b": "Azure Cosmos DB",
+        "c": "Azure Blob Storage",
+        "d": "Azure Table Storage",
+        "correct": "b"
+    },
+    {
+        "question": "Qual é a principal vantagem do Azure Data Factory?",
+        "a": "Armazenamento de dados relacionais",
+        "b": "Integração e transformação de dados",
+        "c": "Processamento de dados em tempo real",
+        "d": "Gerenciamento de bancos de dados relacionais",
+        "correct": "b"
+    },
+    {
+        "question": "Qual serviço do Azure é usado para análise de dados históricos?",
+        "a": "Azure Data Lake",
+        "b": "Azure Synapse Analytics",
+        "c": "Azure Data Factory",
+        "d": "Azure Blob Storage",
+        "correct": "b"
+    },
+    {
+        "question": "Qual é a principal característica do Azure Table Storage?",
+        "a": "Armazenamento de dados relacionais",
+        "b": "Armazenamento de dados de chave-valor",
+        "c": "Processamento de dados em tempo real",
+        "d": "Gerenciamento de bancos de dados relacionais",
+        "correct": "b"
+    },
+    {
+        "question": "Qual serviço do Azure é ideal para armazenamento de dados estruturados?",
+        "a": "Azure SQL Database",
+        "b": "Azure Cosmos DB",
+        "c": "Azure Blob Storage",
+        "d": "Azure Table Storage",
+        "correct": "a"
+    }
+]
